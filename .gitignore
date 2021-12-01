@@ -1,5 +1,5 @@
 # Yarn 2
-.yarn/*
+.yarn/
 !.yarn/cache/
 !.yarn/releases/
 !.yarn/plugins/
